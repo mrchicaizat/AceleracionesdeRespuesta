@@ -1,3 +1,12 @@
+# =====================================================
+#                    Universidad Central del Ecuador 
+# Nombre: Chicaiza Tuqueres Michael Ruben
+# Codigo : E5 - P2
+# Interfaz Grafica
+# =====================================================
+
+
+
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
